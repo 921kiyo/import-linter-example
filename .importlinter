@@ -1,5 +1,5 @@
 [importlinter]
-root_package = project
+root_package=project
 include_external_packages=True
 
 [importlinter:contract:1]
